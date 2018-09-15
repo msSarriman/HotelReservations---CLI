@@ -7,7 +7,7 @@ This was a student's project at the time. It's code integrity it is not guarante
 
 ================================
  
-The folder /DataStructuresProject_Final is a VirtualStudio folder. 
+The folder /ConsoleApplication3 is a VirtualStudio folder. 
 Importing into VirtualStudio is achievable.  
 
 Implementation
